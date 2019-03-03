@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/UploadCitizenBiometric.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/SearchCitizenCrime.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/ValidateCitizenBiometric.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/ProfileCourtInformation.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/PrintingVisitor.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/ResultSetTableModel.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/ProfileOffence.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/EditReg.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/EditCitizenCrime.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/SearchCitizenPage.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/EditCrimeInfo.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/MethodNotImplemented.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/RegJFrame.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/Splash.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/ViewOffences.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/MyVisitor.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/SearchCrimePage.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/Iterator.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/CourtMenuPage.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/ValidateCitizenBiometricProfileCrime.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/Container.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/MyContainer.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/PoliceMenuPage.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/MainPage.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/BlurLayerUI.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/CrimeDeepInfo.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/ContainerFullException.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/ValidateCitizenBiometricUpdateCrime.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/InvalidOperationException.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/AbstractContainer.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/DBConnection.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/AbstractVisitor.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/MyTable.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/ViewCourtInformation.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/ContainerEmptyException.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/Visitor.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/ViewActiveCases.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/dataStructures/ListEmptyException.java</file>
+            <file>file:/C:/Users/USER/Documents/Programming/NetBeansProjects/Crime%20Record%20Management/src/com/main/CourtCrimeDeepInfo.java</file>
+        </group>
+    </open-files>
+</project-private>
